@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 gxd is coolest.
 Creating a new branch is quick and simple.
+gxd is coolest.
